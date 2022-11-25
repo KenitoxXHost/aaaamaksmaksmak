@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+html{
+    background-color: black;
+}
+img{
+    width: 500px;
+    margin:0 auto;
+    display: block;
+}
+h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px
+}
